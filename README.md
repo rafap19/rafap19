@@ -24,4 +24,6 @@
   <a href="https://www.linkedin.com/in/rafael-sousa-147b4318b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
+  
+  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=rafap19repo=rafap19&theme=react)](https://github.com/rafap19/rafap19)
 
