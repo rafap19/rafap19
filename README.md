@@ -25,5 +25,5 @@
 
 </div>
   
-  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=rafap19repo=rafap19&theme=react)](https://github.com/rafap19/rafap19)
+ ![Snake animation](https://github.com/rafap19/rafap19/blob/output/github-contribution-grid-snake.svg)
 
