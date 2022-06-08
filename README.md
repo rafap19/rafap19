@@ -1,6 +1,6 @@
 ### Olá,me chamo Rafael 👋
 
-- 🔭 Atualmente estudando Javascript
+- 🔭 Atualmente estudando HTML,CSS,Bootstrap e Javascript
 -  ⚡  Estudante de front-end
 - 🚀 "Your future is created by what you do today not tomorrow!"
 
